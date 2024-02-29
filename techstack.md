@@ -3,22 +3,22 @@
 ## Tech Stack
 ramzimalhas/AGiXT is built on the following main stack:
 
-- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - [Python](https://www.python.org) – Languages
 - [MySQL](http://www.mysql.com) – Databases
 - [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- [NumPy](http://www.numpy.org/) – Data Science Tools
-- [Pandas](http://pandas.pydata.org/) – Data Science Tools
-- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [FFMPEG](https://www.ffmpeg.org/) – Image Processing and Management
-- [Streamlit](https://streamlit.io) – Machine Learning Tools
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Playwright](https://github.com/microsoft/playwright) – Browser Testing
-- [OpenAI](https://openai.com/) – Large Language Models
+- [FFMPEG](https://www.ffmpeg.org/) – Image Processing and Management
+- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - [Claude](https://www.anthropic.com/product) – Large Language Models
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [OpenAI](https://openai.com/) – Large Language Models
+- [Pandas](http://pandas.pydata.org/) – Data Science Tools
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Streamlit](https://streamlit.io) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -28,22 +28,22 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ramzimalhas/AGiXT is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2180/1284191.png' alt='Pandas'/> [Pandas](http://pandas.pydata.org/) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4784/ugIX8eBN_normal.png' alt='FFMPEG'/> [FFMPEG](https://www.ffmpeg.org/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/11393/default_67e251b5860795095fe91618cf3ef8d09257469a.png' alt='Streamlit'/> [Streamlit](https://streamlit.io) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png' alt='Playwright'/> [Playwright](https://github.com/microsoft/playwright) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/4784/ugIX8eBN_normal.png' alt='FFMPEG'/> [FFMPEG](https://www.ffmpeg.org/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - <img width='25' height='25' src='https://img.stackshare.io/service/101883/default_fddf1fbe1d52baf4dac573b2b7fc24b78cc729b1.jpg' alt='Claude'/> [Claude](https://www.anthropic.com/product) – Large Language Models
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/2180/1284191.png' alt='Pandas'/> [Pandas](http://pandas.pydata.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/11393/default_67e251b5860795095fe91618cf3ef8d09257469a.png' alt='Streamlit'/> [Streamlit](https://streamlit.io) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -54,7 +54,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ramzimalhas/AGiXT](https://github.com/ramzimalhas/AGiXT)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|23<br/>Tools used|01/23/24 <br/>Report generated|
+|23<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
